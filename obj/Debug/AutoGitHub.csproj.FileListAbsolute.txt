@@ -1,0 +1,13 @@
+C:\Users\james\OneDrive\Documents\Projects\GitHubPushed\AutoGit\AutoGitHub\bin\Debug\AutoGitHub.exe.config
+C:\Users\james\OneDrive\Documents\Projects\GitHubPushed\AutoGit\AutoGitHub\bin\Debug\AutoGitHub.exe
+C:\Users\james\OneDrive\Documents\Projects\GitHubPushed\AutoGit\AutoGitHub\bin\Debug\AutoGitHub.pdb
+C:\Users\james\OneDrive\Documents\Projects\GitHubPushed\AutoGit\AutoGitHub\bin\Debug\Octokit.dll
+C:\Users\james\OneDrive\Documents\Projects\GitHubPushed\AutoGit\AutoGitHub\bin\Debug\Octokit.xml
+C:\Users\james\OneDrive\Documents\Projects\GitHubPushed\AutoGit\AutoGitHub\obj\Debug\AutoGitHub.csprojAssemblyReference.cache
+C:\Users\james\OneDrive\Documents\Projects\GitHubPushed\AutoGit\AutoGitHub\obj\Debug\AutoGitHub.Form1.resources
+C:\Users\james\OneDrive\Documents\Projects\GitHubPushed\AutoGit\AutoGitHub\obj\Debug\AutoGitHub.Properties.Resources.resources
+C:\Users\james\OneDrive\Documents\Projects\GitHubPushed\AutoGit\AutoGitHub\obj\Debug\AutoGitHub.csproj.GenerateResource.cache
+C:\Users\james\OneDrive\Documents\Projects\GitHubPushed\AutoGit\AutoGitHub\obj\Debug\AutoGitHub.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\Documents\Projects\GitHubPushed\AutoGit\AutoGitHub\obj\Debug\AutoGitHub.csproj.CopyComplete
+C:\Users\james\OneDrive\Documents\Projects\GitHubPushed\AutoGit\AutoGitHub\obj\Debug\AutoGitHub.exe
+C:\Users\james\OneDrive\Documents\Projects\GitHubPushed\AutoGit\AutoGitHub\obj\Debug\AutoGitHub.pdb
