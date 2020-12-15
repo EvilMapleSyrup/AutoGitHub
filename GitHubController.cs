@@ -10,7 +10,6 @@ using System.Net;
 
 namespace AutoGitHub
 {
-    //placed this to see if the auto update works
     public class GitHubController
     {
         Credentials tokenAuth = new Credentials(CredentialManager.GetGitToken());
